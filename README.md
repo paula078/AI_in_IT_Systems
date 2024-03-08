@@ -1,4 +1,4 @@
-# Repository of course "Artificial Intelligence in Computer Science Systems" AGH UST 2023 🤖🖥️
+# Repository for course "Artificial Intelligence in Computer Science Systems" AGH UST 2023 🤖🖥️
 
 This course focuses on issues related to implementing artificial intelligence methods in computer science systems.
 
